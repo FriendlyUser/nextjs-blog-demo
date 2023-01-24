@@ -1,0 +1,33 @@
+.activeClass path {
+    fill: black;
+    stroke: black;
+    stroke-width: 0.25px;
+}
+
+.activeClass g {
+    fill: black;
+    stroke: black;
+    stroke-width: 0.25px;
+}
+
+.inActiveClass path {
+    fill: gray !important;
+    stroke: gray !important;
+    stroke-width: 0.25px;
+}
+
+.inActiveClass g {
+    fill: gray !important;
+    stroke: gray !important;
+    stroke-width: 0.25px;
+}
+
+.activeClass svg {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.inActiveClass svg {
+    max-width: 100px;
+    max-height: 100px;
+}
